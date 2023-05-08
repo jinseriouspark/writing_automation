@@ -11,12 +11,9 @@ writing automation code for daily checker(with Naver Band)
 100일 후에는 최소 20,000자 이상 글이 남습니다.
 
 100일 글쓰기 체커의 필요 기능 3가지
-1. 멤버의 매일 포스트 체크 daily check posting
-  - 지각 없이 글을 작성했는지, 지각글이 발생한 멤버가 있는지 확인이 필요합니다.
-2. 100일 글쓰기 지각글 보충 여부 재확인 late post url re-checker
-  - 지각한 멤버가 자신의 보충글을 채웠다면 그 글도 확인도 필요합니다.
-3. (오래된) 지각글 보충 리마인더 reminder for late posting author
-  - 일주일 또는 그 이상 기간 동안 지각 보충글이 채워지지 않았을 경우, 리마인더를 제공합니다.
+1. 멤버의 매일 포스트 체크 daily check posting : 지각 없이 글을 작성했는지, 지각글이 발생한 멤버가 있는지 확인이 필요합니다.
+2. 100일 글쓰기 지각글 보충 여부 재확인 late post url re-checker : 지각한 멤버가 자신의 보충글을 채웠다면 그 글도 확인도 필요합니다.
+3. (오래된) 지각글 보충 리마인더 reminder for late posting author : 일주일 또는 그 이상 기간 동안 지각 보충글이 채워지지 않았을 경우, 리마인더를 제공합니다.
 
 100일 글쓰기 process
 1. 현재까지 업로드 된 '네이버 밴드' 내 포스팅을 모두 확인합니다. 
